@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Akash Sundar 👋</h1>
-<h3 align="center">Web & Cloud Developer | Founder of OwnTheSite</h3>
+<h3 align="center">Web Developer | Founder of OwnTheSite</h3>
 <p align="center">
   Building intelligent, fast, and minimal digital experiences with a focus on full ownership and modern architecture.
 </p>
